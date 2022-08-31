@@ -1,0 +1,50 @@
+[
+    {
+        "title" : "programing",
+        "1"  : "fa-brands fa-php",
+        "2"  : "fa-brands fa-css3",
+        "3"  : "fa-brands fa-html5",
+        "4"  : "fa-brands fa-git",
+        "5"  : "fa-brands fa-git",
+        "6"  : "fa-brands fa-python",
+        "7"  : "fa-brands fa-js",
+        "8"  : "fa-brands fa-angular",
+        "9"  : "fa-brands fa-vuejs",
+        "10" : "fa-brands fa-font-awesome",
+        "11" : "fa-solid fa-terminal",
+        "12" : "fa-solid fa-sitemap>"
+
+    },
+    {
+        "title" : "chess",
+        "1" :  "fa-solid fa-chess",
+        "2" :  "fa-solid fa-chess-bishop",
+        "3" :  "fa-solid fa-chess-board",
+        "4" :  "fa-solid fa-chess-clock",
+        "5" :  "fa-solid fa-chess-king",
+        "6" :  "fa-solid fa-chess-knight",
+        "7" :  "fa-solid fa-chess-pawn",
+        "8" :  "fa-solid fa-chess-queen",
+        "9" :  "fa-solid fa-chess-rook",
+        "10" : "fa-solid fa-club",
+        "11" : "fa-solid fa-dagger",
+        "12" : "fa-solid fa-skull-crossbones"
+
+    },
+
+    {
+        "title" : "notation",
+        "1" : "fa-solid fa-brackets-round",
+        "2" : "fa-solid fa-brackets-curly",
+        "3" : "fa-solid fa-brackets-square",
+        "4" : "fa-solid fa-code",
+        "5" : "fa-solid fa-gears",
+        "6" : "fa-solid fa-barcode",
+        "7" : "fa-solid fa-octagon-exclamation",
+        "8" : "fa-solid fa-brain-circuit",
+        "9" : "fa-solid fa-code-commit",
+        "10" : "fa-solid fa-diagram-project",
+        "11" : "fa-solid fa-file-lines",
+        "12" : "fa-solid fa-key-skeleton-left-right"
+    }
+]
