@@ -166,17 +166,3 @@ function marchCards(firstCard, secondCard) {
         }, mode)
     }
 }
-
-
-
-            //  oneCard.classList.add("active"); 
-
-            // let flipCard = document.querySelectorAll(".card.active")
-
-            // if( flipCard.length === 2) {
-
-            //     stopClicking();
-
-            //     marchCards(flipCard[0], flipCard[1]);     
-                 
-            // } 
